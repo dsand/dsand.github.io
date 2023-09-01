@@ -1,2 +1,2 @@
 # dsand.github.io
-Web side for David Sand and has research group.
+Web site for David Sand and has research group.
